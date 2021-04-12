@@ -1,4 +1,5 @@
 # POWERBI-Reports
+This Dashboard is to showcase the number of tickets per Bank before and after the transaction date(SOC). This shows comparative analysis of respective tickets along with Before and after value
 
 
 
